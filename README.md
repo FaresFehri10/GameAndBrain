@@ -19,3 +19,9 @@ Authors  :
 *  Front-end: User interface built with React.
 *  Back-end: Server API developed with Django.
 *  atabase : Mysql
+
+Install Prerequisites  :
+- Python (for Django): Download Python
+- Node.js (for React): Download Node.js
+- npm or Yarn (for managing React packages)
+- PostgreSQL or MySQL (optional, as Django uses SQLite by default)
