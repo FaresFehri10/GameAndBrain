@@ -13,7 +13,8 @@ Authors  :
 - Harshal
 - Moataz
 - Parkshal
-This project is divided into three main parts:
+
+-This project is divided into three main parts:
 
 Front-end: User interface built with React.
 Back-end: Server API developed with Django.
