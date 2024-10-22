@@ -16,6 +16,6 @@ Authors  :
 
 -This project is divided into three main parts:
 
-Front-end: User interface built with React.
-Back-end: Server API developed with Django.
-Database : Mysql
+*  Front-end: User interface built with React.
+*  Back-end: Server API developed with Django.
+*  atabase : Mysql
